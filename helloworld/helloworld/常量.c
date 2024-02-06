@@ -14,5 +14,5 @@
 	//printf("\nhelloworld");
 	//// 第二种方式
 	//printf("\nmyname:%s", "hank");
-	//return 0
+	//return 0;
 //}
