@@ -20,16 +20,15 @@
 //	// long long 超长整型 Windows下占8个字节（19位数）
 //	long long d = 10000LL;
 //	printf("%lld\n", d);
-//	// 2.利用sizeof测量每一种数据类型占用多少字节
-//	// zu表示打印sizeof的测量结果sizeof(变量名/数据类型)
-//	// short
-//	printf("%zu\n", sizeof(short)); // 2个字节
-//	// int
-//	printf("%zu\n", sizeof(int)); // 4个字节
-//	// long
-//	printf("%zu\n", sizeof(long)); // 4个字节
-//	// longlong
-//	printf("%zu\n",sizeof(long long)); // 8个字节
 //
+//	// 2.有符号整数、无符号整数的定义情况
+//	// signed有符号 正数 负数
+//	// unsigned 无符号 整数 正数
+//	signed int e = -100; // signed 可以省略不写
+//	printf("%d\n", e);
+//
+//	// 定义一个变量表示序号
+//	unsigned int f = 999;
+//	printf("%u\n", f); // %u表示用unsigned输出无符号
 //	return 0;
 //}

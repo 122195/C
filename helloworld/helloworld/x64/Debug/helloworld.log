@@ -1,6 +1,2 @@
-﻿  helloworld.c
-  变量.c
-  变量的注意事项.c
-  数据类型.c
-  正在生成代码...
+﻿  char字符类型.c
   helloworld.vcxproj -> F:\桌面\C\helloworld\x64\Debug\helloworld.exe
