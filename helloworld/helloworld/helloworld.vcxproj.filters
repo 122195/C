@@ -24,5 +24,20 @@
     <ClCompile Include="数据类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="变量的注意事项.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数的扩展.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="float、double小数类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="char字符类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

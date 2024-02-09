@@ -21,7 +21,12 @@
   <ItemGroup>
     <ClCompile Include="helloworld.c" />
     <ClCompile Include="变量.c" />
+    <ClCompile Include="变量的注意事项.c" />
+    <ClCompile Include="char字符类型.c" />
+    <ClCompile Include="float、double小数类型.c" />
+    <ClCompile Include="常量.c" />
     <ClCompile Include="数据类型.c" />
+    <ClCompile Include="整数的扩展.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
