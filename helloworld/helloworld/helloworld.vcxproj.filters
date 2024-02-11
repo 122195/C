@@ -42,5 +42,17 @@
     <ClCompile Include="键盘录入的基本使用.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="键盘录入多个 数据.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求长方体的长，宽，高，面积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算数运算符%28加减乘%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算数运算符(除，取余).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

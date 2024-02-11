@@ -27,6 +27,10 @@
     <ClCompile Include="常量.c" />
     <ClCompile Include="数据类型.c" />
     <ClCompile Include="整数的扩展.c" />
+    <ClCompile Include="求长方体的长，宽，高，面积.c" />
+    <ClCompile Include="算数运算符%28加减乘%29.c" />
+    <ClCompile Include="算数运算符(除，取余).c" />
+    <ClCompile Include="键盘录入多个 数据.c" />
     <ClCompile Include="键盘录入的基本使用.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
