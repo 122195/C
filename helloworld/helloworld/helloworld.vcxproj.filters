@@ -42,5 +42,11 @@
     <ClCompile Include="键盘录入的基本使用.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="关系运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逻辑运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
