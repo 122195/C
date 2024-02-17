@@ -1,15 +1,11 @@
-F:\桌面\C\helloworld\helloworld\helloworld.c;F:\桌面\C\helloworld\helloworld\x64\Debug\helloworld.obj
-F:\桌面\C\helloworld\helloworld\变量.c;F:\桌面\C\helloworld\helloworld\x64\Debug\变量.obj
-F:\桌面\C\helloworld\helloworld\变量的注意事项.c;F:\桌面\C\helloworld\helloworld\x64\Debug\变量的注意事项.obj
-F:\桌面\C\helloworld\helloworld\char字符类型.c;F:\桌面\C\helloworld\helloworld\x64\Debug\char字符类型.obj
-F:\桌面\C\helloworld\helloworld\float、double小数类型.c;F:\桌面\C\helloworld\helloworld\x64\Debug\float、double小数类型.obj
-F:\桌面\C\helloworld\helloworld\常量.c;F:\桌面\C\helloworld\helloworld\x64\Debug\常量.obj
-F:\桌面\C\helloworld\helloworld\数值拆分.c;F:\桌面\C\helloworld\helloworld\x64\Debug\数值拆分.obj
-F:\桌面\C\helloworld\helloworld\数据类型.c;F:\桌面\C\helloworld\helloworld\x64\Debug\数据类型.obj
-F:\桌面\C\helloworld\helloworld\整数的扩展.c;F:\桌面\C\helloworld\helloworld\x64\Debug\整数的扩展.obj
-F:\桌面\C\helloworld\helloworld\求长方体的长，宽，高，面积.c;F:\桌面\C\helloworld\helloworld\x64\Debug\求长方体的长，宽，高，面积.obj
-F:\桌面\C\helloworld\helloworld\算数运算符(加减乘).c;F:\桌面\C\helloworld\helloworld\x64\Debug\算数运算符(加减乘).obj
-F:\桌面\C\helloworld\helloworld\算数运算符(除，取余).c;F:\桌面\C\helloworld\helloworld\x64\Debug\算数运算符(除，取余).obj
-F:\桌面\C\helloworld\helloworld\赋值运算符.c;F:\桌面\C\helloworld\helloworld\x64\Debug\赋值运算符.obj
-F:\桌面\C\helloworld\helloworld\键盘录入多个 数据.c;F:\桌面\C\helloworld\helloworld\x64\Debug\键盘录入多个 数据.obj
-F:\桌面\C\helloworld\helloworld\键盘录入的基本使用.c;F:\桌面\C\helloworld\helloworld\x64\Debug\键盘录入的基本使用.obj
+D:\桌面\C\helloworld\helloworld\helloworld.c;D:\桌面\C\helloworld\helloworld\x64\Debug\helloworld.obj
+D:\桌面\C\helloworld\helloworld\关系运算符.c;D:\桌面\C\helloworld\helloworld\x64\Debug\关系运算符.obj
+D:\桌面\C\helloworld\helloworld\变量.c;D:\桌面\C\helloworld\helloworld\x64\Debug\变量.obj
+D:\桌面\C\helloworld\helloworld\变量的注意事项.c;D:\桌面\C\helloworld\helloworld\x64\Debug\变量的注意事项.obj
+D:\桌面\C\helloworld\helloworld\char字符类型.c;D:\桌面\C\helloworld\helloworld\x64\Debug\char字符类型.obj
+D:\桌面\C\helloworld\helloworld\float、double小数类型.c;D:\桌面\C\helloworld\helloworld\x64\Debug\float、double小数类型.obj
+D:\桌面\C\helloworld\helloworld\常量.c;D:\桌面\C\helloworld\helloworld\x64\Debug\常量.obj
+D:\桌面\C\helloworld\helloworld\数据类型.c;D:\桌面\C\helloworld\helloworld\x64\Debug\数据类型.obj
+D:\桌面\C\helloworld\helloworld\整数的扩展.c;D:\桌面\C\helloworld\helloworld\x64\Debug\整数的扩展.obj
+D:\桌面\C\helloworld\helloworld\逻辑运算符.c;D:\桌面\C\helloworld\helloworld\x64\Debug\逻辑运算符.obj
+D:\桌面\C\helloworld\helloworld\键盘录入的基本使用.c;D:\桌面\C\helloworld\helloworld\x64\Debug\键盘录入的基本使用.obj

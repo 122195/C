@@ -20,19 +20,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.c" />
+    <ClCompile Include="关系运算符.c" />
     <ClCompile Include="变量.c" />
     <ClCompile Include="变量的注意事项.c" />
     <ClCompile Include="char字符类型.c" />
     <ClCompile Include="float、double小数类型.c" />
     <ClCompile Include="常量.c" />
-    <ClCompile Include="数值拆分.c" />
     <ClCompile Include="数据类型.c" />
     <ClCompile Include="整数的扩展.c" />
-    <ClCompile Include="求长方体的长，宽，高，面积.c" />
-    <ClCompile Include="算数运算符%28加减乘%29.c" />
-    <ClCompile Include="算数运算符(除，取余).c" />
-    <ClCompile Include="赋值运算符.c" />
-    <ClCompile Include="键盘录入多个 数据.c" />
+    <ClCompile Include="逻辑运算符.c" />
     <ClCompile Include="键盘录入的基本使用.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
