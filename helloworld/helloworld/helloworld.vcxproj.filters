@@ -54,5 +54,11 @@
     <ClCompile Include="算数运算符(除，取余).c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数值拆分.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="赋值运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
