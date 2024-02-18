@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.c" />
+    <ClCompile Include="if语句.c" />
     <ClCompile Include="关系运算符.c" />
     <ClCompile Include="变量.c" />
     <ClCompile Include="变量的注意事项.c" />
