@@ -23,6 +23,7 @@
     <ClCompile Include="if语句%282%29.c" />
     <ClCompile Include="if练习.c" />
     <ClCompile Include="if语句.c" />
+    <ClCompile Include="switch语句.c" />
     <ClCompile Include="关系运算符.c" />
     <ClCompile Include="变量.c" />
     <ClCompile Include="变量的注意事项.c" />
