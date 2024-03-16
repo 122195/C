@@ -60,5 +60,47 @@
     <ClCompile Include="switch语句.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="for循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="正向或反向输出数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="while循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="do while.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="无线循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印形状.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印九九乘法表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冥级数列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="跳出多层循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的基本格式.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="带参数的函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="带有返回参数的函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C语言中的常见函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="随机数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,17 +1,2 @@
-﻿  helloworld.c
-  if语句(2).c
-  if练习.c
-  if语句.c
-  switch语句.c
-  关系运算符.c
-  变量.c
-  变量的注意事项.c
-  char字符类型.c
-  float、double小数类型.c
-  常量.c
-  数据类型.c
-  整数的扩展.c
-  逻辑运算符.c
-  键盘录入的基本使用.c
-  正在生成代码...
+﻿  C语言中的常见函数.c
   helloworld.vcxproj -> E:\桌面\C\helloworld\x64\Debug\helloworld.exe
