@@ -41,9 +41,11 @@
     <ClCompile Include="打印九九乘法表.c" />
     <ClCompile Include="打印形状.c" />
     <ClCompile Include="数据类型.c" />
+    <ClCompile Include="数组.c" />
     <ClCompile Include="整数的扩展.c" />
     <ClCompile Include="无线循环.c" />
     <ClCompile Include="正向或反向输出数字.c" />
+    <ClCompile Include="猜数字小游戏.c" />
     <ClCompile Include="跳出多层循环.c" />
     <ClCompile Include="逻辑运算符.c" />
     <ClCompile Include="键盘录入的基本使用.c" />

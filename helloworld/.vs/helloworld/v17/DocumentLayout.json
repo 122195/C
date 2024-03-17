@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\\u684C\u9762\\C\\helloworld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u968F\u673A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u968F\u673A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\u6570\u7EC4.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4.c",
+              "RelativeDocumentMoniker": "helloworld\\\u6570\u7EC4.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4.c",
+              "RelativeToolTip": "helloworld\\\u6570\u7EC4.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-17T13:47:43.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
+              "RelativeDocumentMoniker": "helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
+              "RelativeToolTip": "helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-17T04:36:38.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\u968F\u673A\u6570.c",
               "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u968F\u673A\u6570.c",
               "RelativeDocumentMoniker": "helloworld\\\u968F\u673A\u6570.c",
               "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u968F\u673A\u6570.c",
               "RelativeToolTip": "helloworld\\\u968F\u673A\u6570.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-16T15:14:08.18Z",
               "EditorCaption": ""
