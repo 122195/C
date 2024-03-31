@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "helloworld\\\u6570\u7EC4.c",
               "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4.c",
               "RelativeToolTip": "helloworld\\\u6570\u7EC4.c",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-17T13:47:43.175Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-17T04:36:38.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T04:36:38.254Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "helloworld\\\u968F\u673A\u6570.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-16T15:14:08.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T15:14:08.18Z"
             }
           ]
         }
