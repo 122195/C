@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -22,7 +22,7 @@
     <ClCompile Include="C语言中的常见函数.c" />
     <ClCompile Include="do while.c" />
     <ClCompile Include="for循环.c" />
-    <ClCompile Include="helloworld.c" />
+    <ClCompile Include="1-helloworld.c" />
     <ClCompile Include="if语句%282%29.c" />
     <ClCompile Include="if练习.c" />
     <ClCompile Include="if语句.c" />
@@ -32,15 +32,15 @@
     <ClCompile Include="冥级数列.c" />
     <ClCompile Include="函数的基本格式.c" />
     <ClCompile Include="带参数的函数.c" />
-    <ClCompile Include="变量.c" />
-    <ClCompile Include="变量的注意事项.c" />
-    <ClCompile Include="char字符类型.c" />
-    <ClCompile Include="float、double小数类型.c" />
+    <ClCompile Include="2-变量.c" />
+    <ClCompile Include="3-变量的注意事项.c" />
+    <ClCompile Include="5-char字符类型.c" />
+    <ClCompile Include="6-float、double小数类型.c" />
     <ClCompile Include="带有返回参数的函数.c" />
     <ClCompile Include="常量.c" />
     <ClCompile Include="打印九九乘法表.c" />
     <ClCompile Include="打印形状.c" />
-    <ClCompile Include="数据类型.c" />
+    <ClCompile Include="4-数据类型.c" />
     <ClCompile Include="数组.c" />
     <ClCompile Include="整数的扩展.c" />
     <ClCompile Include="无线循环.c" />

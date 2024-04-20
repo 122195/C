@@ -15,28 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="helloworld.c">
+    <ClCompile Include="1-helloworld.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="变量.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="数据类型.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="变量的注意事项.c">
+    <ClCompile Include="2-变量.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="常量.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="整数的扩展.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="float、double小数类型.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="char字符类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="键盘录入的基本使用.c">
@@ -106,6 +94,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-变量的注意事项.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-char字符类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-float、double小数类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4-数据类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

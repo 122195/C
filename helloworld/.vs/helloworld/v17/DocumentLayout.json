@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u968F\u673A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u968F\u673A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u5E38\u91CF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u5E38\u91CF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,34 +28,27 @@
               "RelativeDocumentMoniker": "helloworld\\\u6570\u7EC4.c",
               "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4.c",
               "RelativeToolTip": "helloworld\\\u6570\u7EC4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-17T13:47:43.175Z",
+              "WhenOpened": "2024-04-20T07:00:46.057Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
-              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
-              "RelativeDocumentMoniker": "helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
-              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
-              "RelativeToolTip": "helloworld\\\u731C\u6570\u5B57\u5C0F\u6E38\u620F.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-17T04:36:38.254Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "\u968F\u673A\u6570.c",
-              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u968F\u673A\u6570.c",
-              "RelativeDocumentMoniker": "helloworld\\\u968F\u673A\u6570.c",
-              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u968F\u673A\u6570.c",
-              "RelativeToolTip": "helloworld\\\u968F\u673A\u6570.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Title": "\u5E38\u91CF.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u5E38\u91CF.c",
+              "RelativeDocumentMoniker": "helloworld\\\u5E38\u91CF.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u5E38\u91CF.c",
+              "RelativeToolTip": "helloworld\\\u5E38\u91CF.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-16T15:14:08.18Z"
+              "WhenOpened": "2024-04-19T07:05:12.846Z",
+              "EditorCaption": ""
             }
           ]
         }
