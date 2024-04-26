@@ -108,5 +108,11 @@
     <ClCompile Include="4-数据类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="一维数组的练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组的复制.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
