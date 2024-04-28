@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "E:\\\u684C\u9762\\C\\helloworld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6307\u9488\u7684\u8FD0\u7B97.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u6307\u9488\u7684\u8FD0\u7B97.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6307\u9488.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u6307\u9488.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u4E8C\u7EF4\u6570\u7EC4\u7EC3\u4E60.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u4E8C\u7EF4\u6570\u7EC4\u7EC3\u4E60.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u4E8C\u7EF4\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u4E8C\u7EF4\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\char\u578B\u6570\u7EC4\u4E0E\u5B57\u7B26\u4E32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\char\u578B\u6570\u7EC4\u4E0E\u5B57\u7B26\u4E32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4\u7684\u53CD\u8F6C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u6570\u7EC4\u7684\u53CD\u8F6C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u4E00\u7EF4\u6570\u7EC4\u7684\u7EC3\u4E60.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u4E00\u7EF4\u6570\u7EC4\u7684\u7EC3\u4E60.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C534EA3A-B0B7-4F20-BB95-30D92C9B8078}|helloworld\\helloworld.vcxproj|E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u5E38\u91CF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,19 +55,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u6570\u7EC4\u7684\u590D\u5236.c",
-              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c",
-              "RelativeDocumentMoniker": "helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c",
-              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c",
-              "RelativeToolTip": "helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Title": "\u6307\u9488\u7684\u8FD0\u7B97.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6307\u9488\u7684\u8FD0\u7B97.c",
+              "RelativeDocumentMoniker": "helloworld\\\u6307\u9488\u7684\u8FD0\u7B97.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6307\u9488\u7684\u8FD0\u7B97.c",
+              "RelativeToolTip": "helloworld\\\u6307\u9488\u7684\u8FD0\u7B97.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-26T17:08:35.398Z",
+              "WhenOpened": "2024-04-28T14:16:52.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "\u6307\u9488.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6307\u9488.c",
+              "RelativeDocumentMoniker": "helloworld\\\u6307\u9488.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6307\u9488.c",
+              "RelativeToolTip": "helloworld\\\u6307\u9488.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-28T14:06:21.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u4E8C\u7EF4\u6570\u7EC4\u7EC3\u4E60.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u4E8C\u7EF4\u6570\u7EC4\u7EC3\u4E60.c",
+              "RelativeDocumentMoniker": "helloworld\\\u4E8C\u7EF4\u6570\u7EC4\u7EC3\u4E60.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u4E8C\u7EF4\u6570\u7EC4\u7EC3\u4E60.c",
+              "RelativeToolTip": "helloworld\\\u4E8C\u7EF4\u6570\u7EC4\u7EC3\u4E60.c",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAcwEYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-28T11:00:39.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u4E8C\u7EF4\u6570\u7EC4.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u4E8C\u7EF4\u6570\u7EC4.c",
+              "RelativeDocumentMoniker": "helloworld\\\u4E8C\u7EF4\u6570\u7EC4.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u4E8C\u7EF4\u6570\u7EC4.c",
+              "RelativeToolTip": "helloworld\\\u4E8C\u7EF4\u6570\u7EC4.c",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwEgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-28T04:12:09.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "char\u578B\u6570\u7EC4\u4E0E\u5B57\u7B26\u4E32.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\char\u578B\u6570\u7EC4\u4E0E\u5B57\u7B26\u4E32.c",
+              "RelativeDocumentMoniker": "helloworld\\char\u578B\u6570\u7EC4\u4E0E\u5B57\u7B26\u4E32.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\char\u578B\u6570\u7EC4\u4E0E\u5B57\u7B26\u4E32.c",
+              "RelativeToolTip": "helloworld\\char\u578B\u6570\u7EC4\u4E0E\u5B57\u7B26\u4E32.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-27T10:08:04.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u6570\u7EC4\u7684\u53CD\u8F6C.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4\u7684\u53CD\u8F6C.c",
+              "RelativeDocumentMoniker": "helloworld\\\u6570\u7EC4\u7684\u53CD\u8F6C.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4\u7684\u53CD\u8F6C.c",
+              "RelativeToolTip": "helloworld\\\u6570\u7EC4\u7684\u53CD\u8F6C.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-27T09:01:01.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u6570\u7EC4\u7684\u590D\u5236.c",
+              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c",
+              "RelativeDocumentMoniker": "helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c",
+              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c",
+              "RelativeToolTip": "helloworld\\\u6570\u7EC4\u7684\u590D\u5236.c",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-26T17:08:35.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "\u4E00\u7EF4\u6570\u7EC4\u7684\u7EC3\u4E60.c",
               "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u4E00\u7EF4\u6570\u7EC4\u7684\u7EC3\u4E60.c",
               "RelativeDocumentMoniker": "helloworld\\\u4E00\u7EF4\u6570\u7EC4\u7684\u7EC3\u4E60.c",
@@ -55,24 +151,11 @@
               "RelativeToolTip": "helloworld\\\u4E00\u7EF4\u6570\u7EC4\u7684\u7EC3\u4E60.c",
               "ViewState": "AQIAAAgAAAAAAAAAAAAcwCMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-25T07:50:45.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T07:50:45.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "\u6570\u7EC4.c",
-              "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4.c",
-              "RelativeDocumentMoniker": "helloworld\\\u6570\u7EC4.c",
-              "ToolTip": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u6570\u7EC4.c",
-              "RelativeToolTip": "helloworld\\\u6570\u7EC4.c",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCgAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-20T07:00:46.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "\u5E38\u91CF.c",
               "DocumentMoniker": "E:\\\u684C\u9762\\C\\helloworld\\helloworld\\\u5E38\u91CF.c",
               "RelativeDocumentMoniker": "helloworld\\\u5E38\u91CF.c",

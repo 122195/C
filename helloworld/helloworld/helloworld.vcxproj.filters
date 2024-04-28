@@ -114,5 +114,23 @@
     <ClCompile Include="数组的复制.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组的反转.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="char型数组与字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针的运算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
